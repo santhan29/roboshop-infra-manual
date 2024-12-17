@@ -21,7 +21,7 @@ variable "allow_all" {
 }
 
 variable "zone_id" {
-    default = "Z00129193NIT1BN8UNRZ3"
+    default = "Z00129193NIT1BN8UNRZ3" 
 } 
 
 variable "domain_name" {
